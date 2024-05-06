@@ -1,5 +1,5 @@
 # HandcartCactus
-Python / Vue3+TS
+GitHub is an outlet for my curiosity. I have a lot of half-baked Python / Vue3+TS projects laying around.
 
 ## Selected Web Applications
 + [Tailor your Resume to a job description, and get insights on how well your bullet points align with the job description](https://resumetool.eliasjaffe.com/) ([Repo](https://github.com/HandcartCactus/resume-tailoring-tool))
@@ -21,3 +21,7 @@ Python / Vue3+TS
 ## Other Work
 + [A machine learning model-card for AI skeptics (based on The Modeler's Manifesto)](https://github.com/HandcartCactus/The-Modeler-Manifesto-Model-Card)
 + [Easily make a slick python cheat-sheet using LaTeX and BaPoster](https://github.com/HandcartCactus/really-basic-python-cheat-sheet-template)
+
+## Elsewhere on the Web
++ [Tableau Public](https://public.tableau.com/app/profile/elias.jaffe/vizzes)
++ [Kaggle](https://www.kaggle.com/eliasjaffe/code)
