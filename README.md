@@ -4,6 +4,10 @@ GitHub is an outlet for my curiosity. I have a lot of half-baked Python / Vue3+T
 ## Selected Web Applications
 + [Tailor your Resume to a job description, and get insights on how well your bullet points align with the job description](https://resumetool.eliasjaffe.com/) ([Repo](https://github.com/HandcartCactus/resume-tailoring-tool))
 
+## Selected Plugins
++ [Firefox: Open Previous Page In New Tab](https://addons.mozilla.org/en-US/firefox/addon/open-previous-page-in-new-tab/)([Repo](https://github.com/HandcartCactus/open-previous-page-in-new-tab))
++ [Obsidian: Remove Newlines]() ([Repo]())
+
 ## Python Drafts & Concepts
 + [Abuse function decorators to make row-level logic easier in pandas (and other Kaggle-inspired insanity)](https://github.com/HandcartCactus/pygander)
 + [Write *really* high-level web-scrapers which work across different HTML structure](https://github.com/HandcartCactus/Kibsu) and [Demo: Scraping Senate Press Releases](https://github.com/HandcartCactus/Kibsu/blob/main/kibsu_senate_scraper_demo.ipynb)
