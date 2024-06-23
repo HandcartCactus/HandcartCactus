@@ -5,7 +5,7 @@ GitHub is an outlet for my curiosity. I have a lot of half-baked Python / Vue3+T
 + [Tailor your Resume to a job description, and get insights on how well your bullet points align with the job description](https://resumetool.eliasjaffe.com/) ([Repo](https://github.com/HandcartCactus/resume-tailoring-tool))
 
 ## Selected Plugins
-+ [Firefox: Open Previous Page In New Tab](https://addons.mozilla.org/en-US/firefox/addon/open-previous-page-in-new-tab/)([Repo](https://github.com/HandcartCactus/open-previous-page-in-new-tab))
++ [Firefox: Open Previous Page In New Tab](https://addons.mozilla.org/en-US/firefox/addon/open-previous-page-in-new-tab/) ([Repo](https://github.com/HandcartCactus/open-previous-page-in-new-tab))
 + [Obsidian: Remove Newlines]() ([Repo]())
 
 ## Python Drafts & Concepts
