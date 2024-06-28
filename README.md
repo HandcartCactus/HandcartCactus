@@ -6,7 +6,7 @@ GitHub is an outlet for my curiosity. I have a lot of half-baked Python / Vue3+T
 
 ## Selected Plugins
 + [Firefox: Open Previous Page In New Tab](https://addons.mozilla.org/en-US/firefox/addon/open-previous-page-in-new-tab/) ([Repo](https://github.com/HandcartCactus/open-previous-page-in-new-tab))
-+ [Obsidian: Remove Newlines]() ([Repo]())
++ [Obsidian: Remove Newlines](https://github.com/HandcartCactus/obsidian-remove-newlines) ([Repo](https://github.com/HandcartCactus/obsidian-remove-newlines))
 
 ## Python Drafts & Concepts
 + [Abuse function decorators to make row-level logic easier in pandas (and other Kaggle-inspired insanity)](https://github.com/HandcartCactus/pygander)
