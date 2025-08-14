@@ -1,4 +1,6 @@
 # HandcartCactus
+I have an educational background in Mathematics and Systems Engineering. For work, I find elegant and efficient ways to manage and understand unreasonably large and complex data.
+
 GitHub is an outlet for my curiosity. I have a lot of half-baked Python / Vue3+TS projects laying around.
 
 ## Selected Web Applications
